@@ -42,11 +42,12 @@ Para el desarrollo utilizamos tecnologías como Postgres, Express, JWT y Sequeli
 Para la creación de la API para el proyecto utilicé MongoDB con Mongoose, Heroku y MongoDB Atlas para su deploy
 </p>
 
-<h3> TMDB </h3>
+<h3> Álamos </h3>
 
 <p>
+
+Participé en el desarrollo de una aplicacion de compra-venta de autos para una empresa colombiana de manera trainee freelance como maquetador, usando tecnologías como Vue, Nuxt, HTML y TailwindCSS
  
-Cree una pagina que pueda hacer peticiones a la API de TMDB para poder modelar la pagina, con busqueda, inicio de sesion y favoritos asociados a la cuenta creada. Hecha con Javascript, React, Postgres, Sequelize y Bootstrap.
 </p>
 
  <hr></hr>
