@@ -1,4 +1,4 @@
-<h1 align="center" color="#6e3cbc"> Hola Mundo, Me llamo Alexis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center" color="#6e3cbc"> ¡Hola Mundo, Me llamo Alexis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
 </p>
@@ -54,5 +54,5 @@ Cree una pagina que pueda hacer peticiones a la API de TMDB para poder modelar l
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlexBermudez-are&theme=merko&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![gerar10](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gerar10&show_icons=true&theme=gruvbox)
+![gerar10](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexBermudez-are&show_icons=true&theme=merko)
 
