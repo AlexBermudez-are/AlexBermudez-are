@@ -1,5 +1,4 @@
-<h1 align="center" color="#6e3cbc"> Hola Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h2 align="center">Me llamo Alexis.</h2>
+<h1 align="center" color="#6e3cbc"> Hola Mundo, Me llamo Alexis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 Soy desarrollador full stack con las tecnologías MERN y PERN. Tengo 24 años y soy mexicano, pero actualmente vivo en Buenos Aires, Argentina, desde hace 3 años.
 He participado en diferentes tipos de proyectos, ya sean proyectos freelance, personales o profesionales, lo que me ha permitido ganar experiencia y pulir mis habilidades blandas y técnicas.
 Actualmente me encuentro cursando una aceleración utilizando TypeScript, Next.js, Docker y AWS.
