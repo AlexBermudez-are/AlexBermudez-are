@@ -1,12 +1,14 @@
-<h2 align="center"> Hi! I'm Gerard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-Hi, my name is Gerard, I am an economist with an MBA. I am currently working as a software developer at Constata.eu, a company that works with Blockchain and WEB3 technology. I have worked on projects using the following technologies: 
-Javascript, Typescript, Rust, React.js, Node.js, Selenium, GraphQL, Sequelize, SQL .
-Throughout this time I developed my skills in negotiation, teamwork, customer service, active listening, project execution and meeting different business objectives.
+<h2 align="center"> Hola Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+Me llamo Alexis.
+Soy desarrollador fullstack con las tecnologias MERN y PERN, tengo 24 años, soy mexicano pero actualmente vivo en Buenos Aires - argentina desde hace 3 años.
+E participado en diferentes tipos de proyectos, ya sean proyectos freelance, personales o profesionales, lo que me a permitido ganar experiencia y pulir mis habilidades blandas y tecnicas.
+Actualmente me encuentro cursando una aceleracion usando Typescript, Next13, Docker y AWS.
+Me gusta dibujar, escuchar OST de Videojuegos y aspiro a poder trabajar como desarrollador de videojuegos. ❤️ 
 <br/>
  <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
 </p>
-<h2>Lenguages and tools </h2>
+<h2>Tecnologías </h2>
 <br/>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="70" height="70"/>
