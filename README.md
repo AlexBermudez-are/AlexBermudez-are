@@ -23,36 +23,36 @@ Me gusta dibujar, escuchar OST de videojuegos y aspiro a poder trabajar como des
 
 </div>
 
-<h2> Projects </h2>
+<h2> Proyectos </h2>
 
-<h3> Net Secutiry - Aplicación Web y mobile </h3>
+<h3> Global New Groups </h3>
 
 <p>
  
-We developed an application from which a security company can manage and control the presence of security guards inside the different branches of their clients. The team consisted of 5 members and the deadline was 1 month. I developed part of the back end (NodeJS, Sequelize, Postgres, Express) and part of the mobile application with react native.                                                                                 
+Durante un mes, participé en el desarrollo de un proyecto en equipo en el que creamos una API REST para la gestión de empleados, equipos, puestos, oficinas y devoluciones. 
+La API incluía características como inicio de sesión, registro y cambio de contraseña.
+Para el desarrollo utilizamos tecnologías como Postgres, Express, JWT y Sequelize para el back-end, y aplicamos la metodología ágil Shortcut para la gestión del proyecto.                                                                                
  </p>
 
  
-<h3> E-commerce </h3>
+<h3> Todo sobre Café </h3>
  
 <p>
-E-commerce store with full shopping cart functionality. It was done in 2 weeks and counted with the participation of 6 developers. Developed with React, Redux, Express.js, Sequelize.js, PostgreSQL, Bootstrap.
+"Todo sobre café" es un proyecto hecho con react en el cual se simula un ecommerce con formulario de contacto, inicio de sesión, recuperación de cuenta, creación de cuenta y un carrito.
+Para la creación de la API para el proyecto utilicé MongoDB con Mongoose, Heroku y MongoDB Atlas para su deploy
 </p>
 
 <h3> TMDB </h3>
 
 <p>
  
-Application that uses the API of https://www.themoviedb.org/ and that allows to search, list and add to favorites movies and TV series. 
-It was done in 1 week. Individual project.
-Developed with React, Redux, Express.js, Sequelize.js, PostgreSQL.   
+Cree una pagina que pueda hacer peticiones a la API de TMDB para poder modelar la pagina, con busqueda, inicio de sesion y favoritos asociados a la cuenta creada. Hecha con Javascript, React, Postgres, Sequelize y Bootstrap.
 </p>
 
  <hr></hr>
  
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gerar10&theme=gruvbox&hide_border=falso&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexBermudez-are&theme=merko&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ![gerar10](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gerar10&show_icons=true&theme=gruvbox)
 
