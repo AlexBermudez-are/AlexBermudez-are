@@ -29,7 +29,7 @@ Me gusta dibujar, escuchar OST de videojuegos y aspiro a poder trabajar como des
 
 <p>
  
-Durante un mes, participé en el desarrollo de un proyecto en equipo en el que creamos una API REST para la gestión de empleados, equipos, puestos, oficinas y devoluciones. 
+Durante un mes, participé en el desarrollo de un proyecto en equipo para la empresa Global Newgroup en el que creamos una API REST para la gestión de empleados, equipos, puestos, oficinas y devoluciones. 
 La API incluía características como inicio de sesión, registro y cambio de contraseña.
 Para el desarrollo utilizamos tecnologías como Postgres, Express, JWT y Sequelize para el back-end, y aplicamos la metodología ágil Shortcut para la gestión del proyecto.                                                                                
  </p>
