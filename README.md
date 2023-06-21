@@ -1,12 +1,12 @@
 <h1 align="center" color="#6e3cbc"> Hola Mundo, Me llamo Alexis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+ <p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
+</p>
 Soy desarrollador full stack con las tecnologías MERN y PERN. Tengo 24 años y soy mexicano, pero actualmente vivo en Buenos Aires, Argentina, desde hace 3 años.
 He participado en diferentes tipos de proyectos, ya sean proyectos freelance, personales o profesionales, lo que me ha permitido ganar experiencia y pulir mis habilidades blandas y técnicas.
 Actualmente me encuentro cursando una aceleración utilizando TypeScript, Next.js, Docker y AWS.
 Me gusta dibujar, escuchar OST de videojuegos y aspiro a poder trabajar como desarrollador de videojuegos. ❤️
 <br/>
- <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=01CAF4&lines=Full+Stack+Developer&center=true">
-</p>
 <h2>Tecnologías </h2>
 <br/>
 <div align="center">
