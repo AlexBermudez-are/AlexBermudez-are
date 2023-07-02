@@ -29,7 +29,7 @@ Me gusta dibujar, escuchar OST de videojuegos y aspiro a poder trabajar como des
 
 <p>
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AlexBermudez-are-Assef&repo=server&theme=dracula&hide_border=true)](https://github.com/AlexBermudez-are/server)
+[![Portfolio]](https://github.com/AlexBermudez-are/server)
 
 [![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/AmazingEvents)
 [![Graffiti-Wall](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Graffiti-Wall&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Graffiti-Wall)
