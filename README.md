@@ -23,12 +23,18 @@ Me gusta dibujar, escuchar OST de videojuegos y aspiro a poder trabajar como des
 
 </div>
 
-<h2> Proyectos </h2>
+ ## 💻 Principal Projects
 
 <h3> Global New Groups </h3>
 
 <p>
- 
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AlexBermudez-are-Assef&repo=server&theme=dracula&hide_border=true)](https://github.com/AlexBermudez-are/server)
+
+[![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/AmazingEvents)
+[![Graffiti-Wall](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Graffiti-Wall&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Graffiti-Wall)
+[![AnotadorDeTareas-React](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AnotadorDeTareas-React&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/AnotadorDeTareas-React)
+
 Durante un mes, participé en el desarrollo de un proyecto en equipo para la empresa "Global Newgroup", en el que creamos una API REST para la gestión de empleados, equipos, puestos, oficinas y devoluciones. 
 La API incluía características como inicio de sesión, registro y cambio de contraseña.
 Para el desarrollo utilizamos tecnologías como Postgres, Express, JWT y Sequelize para el back-end, y aplicamos la metodología ágil Shortcut para la gestión del proyecto.                                                                                
