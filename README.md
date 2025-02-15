@@ -21,34 +21,6 @@ Me gusta dibujar, escuchar OST de videojuegos y aspiro a poder trabajar como des
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo" alt="Mongo" width="70" height="70"/>
 
-</div>
-
-<h2> Proyectos </h2>
-
-<h3> Global New Groups </h3>
-
-<p>
- 
-Durante un mes, participé en el desarrollo de un proyecto en equipo para la empresa "Global Newgroup", en el que creamos una API REST para la gestión de empleados, equipos, puestos, oficinas y devoluciones. 
-La API incluía características como inicio de sesión, registro y cambio de contraseña.
-Para el desarrollo utilizamos tecnologías como Postgres, Express, JWT y Sequelize para el back-end, y aplicamos la metodología ágil Shortcut para la gestión del proyecto.                                                                                
- </p>
-
- 
-<h3> Todo sobre Café </h3>
- 
-<p>
-"Todo sobre café" es un proyecto hecho con react en el cual se simula un ecommerce de una cafetería con formulario de contacto, inicio de sesión, recuperación de contraseña, creación de cuenta y un carrito.
-Para la creación de la API para el proyecto utilicé MongoDB con Mongoose, Heroku y MongoDB Atlas para su deploy
-</p>
-
-<h3> Álamos </h3>
-
-<p>
-
-Participé en el desarrollo de una aplicacion de compra-venta de autos para una empresa colombiana de manera trainee freelance como maquetador, usando tecnologías como Vue, Nuxt, HTML y TailwindCSS
- 
-</p>
 
  <hr></hr>
  
