@@ -24,8 +24,8 @@ Me considero una persona, comprometida, empática y apasionada por la tecnologí
 
  <hr></hr>
  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexBermudez-are)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexBermudez-are&theme=merko&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ![gerar10](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexBermudez-are&show_icons=true&theme=merko)
 
